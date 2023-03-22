@@ -3,5 +3,6 @@
     <pages>
         <page name='Basic Operators'/>
         <page name='RawRepresentable'/>
+        <page name='OptionSet'/>
     </pages>
 </playground>
