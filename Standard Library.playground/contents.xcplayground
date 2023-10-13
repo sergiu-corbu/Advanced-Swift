@@ -4,5 +4,7 @@
         <page name='Basic Operators'/>
         <page name='RawRepresentable'/>
         <page name='OptionSet'/>
+        <page name='For-Loops'/>
+        <page name='Result Builders'/>
     </pages>
 </playground>
