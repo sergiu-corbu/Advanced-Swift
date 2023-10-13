@@ -6,5 +6,6 @@
         <page name='OptionSet'/>
         <page name='For-Loops'/>
         <page name='Result Builders'/>
+        <page name='Data Validation'/>
     </pages>
 </playground>

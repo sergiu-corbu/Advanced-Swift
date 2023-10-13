@@ -1,7 +1,3 @@
-import UIKit
-
-var greeting = "Hello, playground"
-
 
 import Foundation
 
@@ -38,6 +34,7 @@ c.insert(5, at: 4)
 // array indexing
 
 //Managing array operations without index
+var fibs = [0,1,1,2,3,5,8,13,21,34,55,89,144,233]
 
 // iterate over
 for _ in fibs {
